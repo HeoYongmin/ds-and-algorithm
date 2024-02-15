@@ -1,8 +1,8 @@
 # file : ds16_queue.py
 # desc : 큐 일반구현
 
-# Queue 풀확인함수
-def isQueueFull():
+# Queue 풀 확인함수
+def isQueueFull(): # 개선버전으로 변경
     global SIZE, queue, front, rear
     if rear != (SIZE-1): # 큐가 아직 빈상태
         return False
