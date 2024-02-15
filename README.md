@@ -21,7 +21,7 @@
         
         ![stack](https://cs.lmu.edu/~ray/images/stack.gif)
     - 큐 : First In First Out(FIFO)
-    - ![queque](https://raw.githubusercontent.com/HeoYongmin/ds-and-algorithm-2024/main/images/queue.png)
+    - ![queque](https://raw.githubusercontent.com/HeoYongmin/ds-and-algorithm/main/images/queue.png)
     
 
 ## 4일차
