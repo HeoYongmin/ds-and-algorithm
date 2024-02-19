@@ -51,6 +51,9 @@
         - 삽입정렬 Insertion Sort - 기준값 기준 앞 뒤로 보내는 정렬 0(n^2)
         - 버블정렬 Bubbl Sort - 기준값 기준으로 제일 큰 값을 뒤로 보내는 정렬 0(n^2)
         - 퀵정렬 Quick Sort - 기준값 작은값그룹/큰 값 그룹을 분리한 뒤 다시 정렬 재귀호출 0(nlogn)
+
+    ![정렬](https://raw.githubusercontent.com/HeoYongmin/ds-and-algorithm/main/images/sorting.jpg)
+   
 ## 7일차
 - 파이썬 자료구조/알고리즘
     - 검색
